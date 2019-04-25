@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginEx</string>
+    <string name="enter_login">введите логин</string>
+    <string name="enter_password">введите пароль</string>
+    <string name="save_ex">Сохранять пароль и логин во внешнем хранилище</string>
+    <string name="ok">ОК</string>
+    <string name="register">Регистрация</string>
+    <string name="invalid_msg">Неверная пара логин пароль</string>
+    <string name="valid_msg">Ура, вы залогинились</string>
+    <string name="need_register">Зарегестрируйтесь</string>
+    <string name="fill_fields">Все поля должны быть заполнены</string>
+    <string name="reg_ok">Ура, регистрация удалась</string>
+</resources>
+
